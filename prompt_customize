@@ -1,2 +1,27 @@
 PS1='\u@\h:\w\[\e[1;31m\]\$ \[\e[m\]'
-The command set red bold colour of dollar sign in bash prompt.
+The command set red bold color of dollar sign in bash prompt.
+
+1;31 part set color and style (style;color)
+Style:
+ 0 - default
+ 1 - bold
+ 2 - thin
+ 3 - italic
+ 4 - underlined
+ 7 - reverse
+ 8 - hidden
+ 9 - crossed
+Color:
+ 39 - default
+ 30 - black
+ 31 - red
+ 32 - green
+ 33 - yellow
+ 34 - blue
+ 35 - purple
+ 36 - cyan
+ 37 - light gray
+
+u - user
+h - host
+w - path
