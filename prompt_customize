@@ -1,0 +1,2 @@
+PS1='\u@\h:\w\[\e[1;31m\]\$ \[\e[m\]'
+The command set red bold colour of dollar sign in bash prompt.
