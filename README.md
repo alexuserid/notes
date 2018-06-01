@@ -1,3 +1,3 @@
 # bashNotes
 
-Here is some useful bash scripts and notes
+Here is some useful bash scripts, configs and notes
