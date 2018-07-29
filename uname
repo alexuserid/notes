@@ -1,0 +1,16 @@
+#!/bin/bash
+
+uname -a
+echo "I have \$4"
+
+am=$(whoami)
+echo $am
+
+if 
+	then
+	echo "The directory is `pwd`"
+fi
+echo "End"
+
+# This comment was made for test
+# This comment was made for test2
