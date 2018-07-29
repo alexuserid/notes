@@ -11,5 +11,3 @@ if
 	echo "The directory is `pwd`"
 fi
 echo "End"
-
-# Hi
