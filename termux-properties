@@ -1,0 +1,3 @@
+use-bause-black-ui = true
+enforce-char-based-input = true
+extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['TAB','CTRL','ALT','LEFT','DOWN','RIGHT','PGDN']]
