@@ -1,0 +1,20 @@
+{
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false
+  },
+  "base_keymap": "JetBrains",
+  "ui_font_size": 14,
+  "buffer_font_size": 12,
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "One Dark"
+  },
+  "autosave": "on_focus_change",
+  "languages": {
+    "YAML": {
+      "format_on_save": "off"
+    }
+  }
+}
